@@ -1,0 +1,23 @@
+# Entorno virtual de Python
+.venv/
+venv/
+env/
+
+# Archivos CSV generados
+*.csv
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
